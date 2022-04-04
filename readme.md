@@ -1,7 +1,7 @@
-```diff
+# Update
 - Apologies but the NYT clue data-set is no longer available. 
 - Feel free to contact me directly if you have questions. (2/25/2018)
-```
+
 
 NYTimes Crossword Data
 =========
